@@ -1,2 +1,1 @@
-Ici on liste les idées 
-Les Chocolatines sont un groupe de défendeur de 
+Création du menu de naviation pour le projet Des chocolatines
